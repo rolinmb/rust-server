@@ -1,0 +1,1 @@
+Learning how rust can serve HTML content way better than node.js
